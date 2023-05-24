@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="server">SERVER</string>
+    <string name="port">PORT</string>
+    <string name="connect">Connect</string>
+    <string name="client">CLIENT</string>
+    <string name="get_weather_forecast">Get Weather Forecast</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="get_pokemon">Get Pokemon</string>
+    <string name="get_list">get list</string>
+</resources>
